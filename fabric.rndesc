@@ -1,0 +1,8 @@
+<RengaPlugin>
+	<Name>RengaCAD2FE</Name>
+	<Version>1.0</Version>
+	<Copyright></Copyright>
+	<RequiredAPIVersion>1.0</RequiredAPIVersion>
+	<PluginFilename>FabricPort.rne</PluginFilename>
+	<Vendor>test</Vendor>
+</RengaPlugin>
